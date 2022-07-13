@@ -1,0 +1,12 @@
+Ivanov;Ivan;123-23-23;Work
+Petrov;Petr;124-24-24;Home
+Ivanov;Fedor;125-25-25;Home
+Nikolaev;Nikolay;126-26-26;Work
+Alekseev;Aleksey;127-27-27;Home
+Ivanov;Ivan;128-28-28;Home
+Petrov;Petr;129-29-29;Work
+Ivanov;Fedor;130-30-30;Work
+Nikolaev;Nikolay;131-31-31;Home
+Egorov;Dmitriy;123-55-67;Home
+Fedorov;Karl;144-66-00;Work
+Vasiliev;Vasiliy;144-66-90;Home;
